@@ -1,3 +1,4 @@
+
 # Active Record Costume Store
 
 ## Objectives 🎃👻🎃
